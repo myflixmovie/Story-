@@ -1,0 +1,11 @@
+# Acceptance checklist
+- [ ] Register with email, verify account, sign in, sign out, reset password.
+- [ ] Create a movie/series, add scenes, write dialogue, wait for autosave.
+- [ ] Reload, sign in, reopen project and confirm restored writing.
+- [ ] Disconnect network, edit, reconnect and confirm pending edits sync.
+- [ ] Simulate save failure; confirm local copy remains and error status is honest.
+- [ ] Edit same scene in two sessions and verify conflict handling.
+- [ ] Create checkpoint, edit, restore previous draft.
+- [ ] Export JSON backup, scene TXT, Markdown, and print-to-PDF.
+- [ ] Test 360px mobile and reduced-motion preferences.
+- [ ] Restore a Supabase backup into a separate project and verify contents.
